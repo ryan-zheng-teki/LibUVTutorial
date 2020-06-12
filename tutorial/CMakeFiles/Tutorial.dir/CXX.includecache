@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ryan/Learning/CPlusPlus/libuvtutorial/tutorial/main.cc
+stdio.h
+-
+stdlib.h
+-
+uv.h
+-
+

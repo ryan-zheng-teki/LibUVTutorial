@@ -1,0 +1,1 @@
+/usr/bin/c++     -Wl,-rpath -Wl,/usr/local/lib CMakeFiles/main_idle.dir/main_idle.cc.o  -o main_idle  -luv 
