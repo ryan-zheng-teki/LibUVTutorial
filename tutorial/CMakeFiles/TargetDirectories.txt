@@ -1,4 +1,0 @@
-/home/ryan/Learning/CPlusPlus/libuvtutorial/tutorial/CMakeFiles/rebuild_cache.dir
-/home/ryan/Learning/CPlusPlus/libuvtutorial/tutorial/CMakeFiles/main_helloworld.dir
-/home/ryan/Learning/CPlusPlus/libuvtutorial/tutorial/CMakeFiles/edit_cache.dir
-/home/ryan/Learning/CPlusPlus/libuvtutorial/tutorial/CMakeFiles/main_idle.dir

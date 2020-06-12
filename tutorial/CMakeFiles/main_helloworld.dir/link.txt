@@ -1,1 +1,0 @@
-/usr/bin/c++     -Wl,-rpath -Wl,/usr/local/lib CMakeFiles/main_helloworld.dir/main_helloworld.cc.o  -o main_helloworld  -luv 

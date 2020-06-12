@@ -1,1 +1,0 @@
-/usr/bin/c++     -Wl,-rpath -Wl,/usr/local/lib CMakeFiles/main.dir/main.cc.o  -o main  -luv 

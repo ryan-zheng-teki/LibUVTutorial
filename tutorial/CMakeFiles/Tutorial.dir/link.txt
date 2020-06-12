@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/Tutorial.dir/main.cc.o  -o Tutorial  -luv 
