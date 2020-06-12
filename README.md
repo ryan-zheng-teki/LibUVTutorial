@@ -17,6 +17,8 @@ uv_run(uv_loop_t*);
 
 The whole idea of event loop is trying to solve one problem: How to call some callback when there are data on certain file descritors? 
 
+All most all event loop implementation have similar structs like the following
+
 ```
 global List<Pair<FileDescriptor,CallbackFunction> queue;
 class EventLoop {
