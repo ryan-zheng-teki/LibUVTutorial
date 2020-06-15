@@ -1,6 +1,6 @@
 # Introduction
 The point of this tutorial is not about completely understanding the implementation 
-of libuv in details. We just want to understand how it works internally. And i have forgot many syntaxes in C. So there are some errors in the description
+of libuv in details. I just want to understand how it works internally. And i have forgot many syntaxes in C. So there are some errors in the description
 ```
 struct uv_loop_t {
     struct uv_handle_t** handles
